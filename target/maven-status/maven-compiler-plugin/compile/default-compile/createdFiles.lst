@@ -1,0 +1,6 @@
+model\entities\Contract.class
+model\entities\Installment.class
+model\application\ExerciseInstallmentGeneratorProgram01.class
+model\services\ContractService.class
+model\services\PaypalService.class
+model\services\OnlinePaymentService.class
